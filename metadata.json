@@ -1,0 +1,6 @@
+{
+  "name": "GestiónDoc",
+  "description": "Aplicación web de gestión de documentos corporativos con Supabase",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
